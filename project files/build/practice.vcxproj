@@ -153,7 +153,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\src\dataextractor.cpp" />
-    <ClCompile Include="..\src\explicit.cpp" />
+    <ClCompile Include="..\src\lambdafunc.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\include\error.h" />
